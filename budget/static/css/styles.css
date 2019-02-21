@@ -10,7 +10,7 @@ h1,h6{
   font-weight:bold;
 }
 .row{
-  margin:0!important;
+  margin:0! important;
 }
 /*project list (no projects)*/
 .noproject-wrapper{
@@ -22,6 +22,13 @@ h1,h6{
 .noproject-wrapper h3{
   padding:10px;
   margin-bottom:50px;
+}
+/* project add view */
+form ul li.category{
+  display:inline-block;
+  background-color: white;
+  padding:5px 10px;
+  margin-right:5px;
 }
 
 /*project detail statistics*/
